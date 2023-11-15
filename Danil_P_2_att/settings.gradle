@@ -1,0 +1,7 @@
+rootProject.name = 'Danil_P_1_att'
+include 'model'
+include 'randomizer'
+include 'json'
+include 'postgress'
+include 'console'
+
